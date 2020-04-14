@@ -8,13 +8,15 @@ body {
 
 .parent{
     background-color: blue;
-    padding: 50px;
+    padding: 20px;
     /* width: 900px; */
-    width: 80%;
+    width: 50%;
     margin: 0 auto;
+     /* overflow: auto;  */
 }
 
 .child{
     background-color: violet;
+    width: 60%;
     height: 250px;
 }
