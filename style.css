@@ -4,19 +4,16 @@
 
 body {
   margin: 0;
+  font-family: sans-serif;
+  /* font-size: 25px; */
 }
 
-.parent{
-    background-color: blue;
-    padding: 20px;
-    /* width: 900px; */
-    width: 50%;
+.conteiner{
+    background-color: navy;
+    color: papayawhip;
+
+    width: 80%;
     margin: 0 auto;
-     /* overflow: auto;  */
-}
 
-.child{
-    background-color: violet;
-    width: 60%;
-    height: 250px;
+    padding: 5em;
 }
