@@ -1,17 +1,23 @@
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
 body {
-    margin: 0;
-    font-family: sans-serif;
+  margin: 0;
+  font-family: sans-serif;
 }
 
 .container {
-    background: #23424A;
-    color: white;
+  background: #23424a;
+  color: white;
 
-    width: 80%;
-    margin: 0 auto;
-    
-    padding: 2em;
-    height: 300px;
+  width: 80%;
+  margin: 0 auto;
+
+  padding: 2em;
+  /* height: 300px; */
+}
+
+.intro-content {
+  width: 50%;
 }
