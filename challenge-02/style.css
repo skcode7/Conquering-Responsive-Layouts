@@ -1,0 +1,23 @@
+* { box-sizing: border-box; }
+
+body { 
+    margin: 0;
+    font-family: sans-serif;
+} 
+
+.container {
+    width: 100%;
+    /* max-width: 750px; */
+    margin: 0 auto;
+    background: #23424A;
+    color: white;
+    padding: 50px 25%; 
+}
+
+.intro-content {
+    width: 50%;
+}
+
+.more-content{
+    padding: 0px 25%;
+}
