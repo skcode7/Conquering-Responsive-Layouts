@@ -5,19 +5,19 @@ body {
     font-family: sans-serif;
 } 
 
+.intro{
+    background: #23424A;
+    color: silver;
+    padding: 20px 0; 
+}
+
 .container {
     width: 100%;
-    /* max-width: 750px; */
+    max-width: 750px;
     margin: 0 auto;
-    background: #23424A;
-    color: white;
-    padding: 50px 25%; 
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .intro-content {
     width: 50%;
-}
-
-.more-content{
-    padding: 0px 25%;
 }
