@@ -75,3 +75,12 @@ An interesting look at the two properties, and how they might not always act the
 
 As it says, the second one is the easier one to understand, just like we looked at, so I plan on sticking with that one 😊
 [Link](https://css-tricks.com/tale-width-max-width/)
+
+## [Day 7](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/259297-day-7-solution-to-challenge-3/747090-my-solution-to-challenge-3)
+### My solution to challenge #3
+
+[Emmet documentation](https://docs.emmet.io/)
+
+[BEM](https://youtu.be/SLjHSVwXYq4)
+
+[box-sizing: border-box](https://youtu.be/WlGQdgy-M6w)
