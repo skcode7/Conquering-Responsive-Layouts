@@ -84,3 +84,15 @@ As it says, the second one is the easier one to understand, just like we looked 
 [BEM](https://youtu.be/SLjHSVwXYq4)
 
 [box-sizing: border-box](https://youtu.be/WlGQdgy-M6w)
+
+## [Day 8](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/260392-day-8-flexbox-basics)
+### Flexbox Basics
+Flexbox was the first actual layout property given to us in CSS, which is wild because it was only added relatively recently.
+
+This part of the course isn't a complete overview of flexbox, but more of a look at how we can quickly and easily use it to start making more interesting looking layouts.
+
+We'll be starting with some simple columns set ups, plus a nice trick to space things out. In the coming days, we'll be diving deeper in and making more fleshed out layouts.
+
+Flexbox does do a few strange things, which we'll be exploring as well.
+
+For the challenge, I've provided the design specs as a PDF. I've also provided the starting files both in as a download to work locally on your computer, as well as a Codepen. Pick whichever you'd prefer 
