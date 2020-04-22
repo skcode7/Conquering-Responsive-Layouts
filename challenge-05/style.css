@@ -89,3 +89,27 @@ h1 {
 .btn:focus {
     opacity: .75; 
 }
+
+.accent-text {
+    color: #136C72;
+}
+
+.main {
+    padding-top: 2em;
+}
+
+.one-col {
+    width: 52%;
+}
+
+.nav {
+    text-align: center;
+    flex-direction: row-reverse;
+    background: #136C72;
+    color: white;
+    width: 42%;
+}
+
+.nav p {
+    padding: 0 1.5em 3em;
+}
