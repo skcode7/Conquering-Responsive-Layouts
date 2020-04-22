@@ -42,26 +42,18 @@ h1 {
 .row {
     /* display: flex => flex container */
     display: flex;
-
-    text-align: center;
     /* can't use yet */
-    gap: 40px;
+    /* gap: 40px; */
 }
 
-.row h2 {
-    font-weight: 900;
-    color: #87629A;
-    margin-top: 5em;
-}
 
 .col {
     /* these are now flex items */
     width: 100%;
-    margin: 0 auto;
 }
 
-.col p {
-    margin-bottom: 5em;
+.col + .col {
+    margin-left: 30px;
 }
 
 .hero {
@@ -76,7 +68,6 @@ h1 {
 
 .hero p {
     margin-bottom: 3em;
-    font-size: 1.3125;
 }
 
 .btn {
@@ -95,17 +86,18 @@ h1 {
     opacity: .75; 
 }
 
-.hero-2 {
-    padding: 100px  0;
-    background-color: #136C72;
-    color: #FFF;
+.three-col {
+    text-align: center;
+    padding: 3em 0;
 }
 
-.row-2 {
-    /* display: flex => flex container */
-    display: flex;
-    text-align: center;
+.three-col h2{
+    color: #87629A;
+}
 
-    /* can't use yet */
-    gap: 40px;
+.two-col {
+    text-align: center;
+    padding: 3em 0;
+    background: #136C72;
+    color: white;
 }
