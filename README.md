@@ -96,3 +96,9 @@ We'll be starting with some simple columns set ups, plus a nice trick to space t
 Flexbox does do a few strange things, which we'll be exploring as well.
 
 For the challenge, I've provided the design specs as a PDF. I've also provided the starting files both in as a download to work locally on your computer, as well as a Codepen. Pick whichever you'd prefer 
+
+[CodePen](https://codepen.io/kevinpowell/pen/ZEbpGjE)
+
+## [Day 9](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/261733-day-9-a-deeper-dive-into-flexbox)
+### A deeper dive into flexbox
+[CodePen](https://codepen.io/kevinpowell/pen/NWGRELP)
