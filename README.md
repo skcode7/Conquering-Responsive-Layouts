@@ -102,3 +102,19 @@ For the challenge, I've provided the design specs as a PDF. I've also provided t
 ## [Day 9](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/261733-day-9-a-deeper-dive-into-flexbox)
 ### A deeper dive into flexbox
 [CodePen](https://codepen.io/kevinpowell/pen/NWGRELP)
+
+## [Day 10](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/261797-day-10-extra-curricular-activities)
+### Extra curricular activities
+
+Yesterday was a big day, so there is no shame in taking a break at this point!
+
+If you're loving flexbox (or perhaps still a little confused by it!), I do have a 3-part series on YouTube that goes much deeper than we've looked so far, and could help you grasp it.
+
+[You can find it here](https://www.youtube.com/playlist?list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd)
+
+You won't need this to complete any of the challenges in the course and a lot of it will be covered in the coming days, but if you really want some more material today, really understanding flexbox is a good place to start. 
+
+## [Day 11](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/264954-day-11-using-flexbox-for-a-navigation)
+### Using flexbox for a navigation
+[CodePen](https://codepen.io/kevinpowell/pen/dyYNWXb)
+
