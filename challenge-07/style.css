@@ -1,0 +1,79 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Playfair Display", sans-serif;
+  font-size: 1.1rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1128px;
+  width: 80%;
+}
+
+.container h1 {
+  color: #824936;
+  font-size: 3.75rem;
+}
+
+.container p {
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
+}
+
+header {
+  background: #f3eed9;
+  padding: 4em 0;
+  text-align: center;
+}
+
+.info {
+    padding: 3em;
+}
+
+.container h2 {
+  font-size: 2.25rem;
+  color: #824936;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.col {
+  font-family: "Roboto", sans-serif;
+  font-weight: 1.3rem;
+}
+
+.hero__img {
+    width: 80%;
+}
+
+.hero__text {
+    color: white;
+    font-size: 0.75 rem;
+}
+
+.row h3 {
+    color: #f3eed9;
+}
+.impar {
+    background: black;
+}
+
+.par {
+    background: #824936;
+    flex-direction: row-reverse;
+}
