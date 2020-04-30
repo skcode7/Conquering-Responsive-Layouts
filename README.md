@@ -159,3 +159,19 @@ I'm still scratching the surface with these, and browser support for them  (espe
 
 ### Intro to media queries
 
+## [Day 16](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/271451-day-16-what-breakpoints-to-use)
+
+### What breakpoints to use?
+
+A dive into how to pick breakpoints for your projects. I still maintain  that the design should dictate the ones you're using, but as I said at  the end of my video, I end up very often using the same, or very similar ones, almost all the time.
+
+The tl;dr of the article: Use 600px, 900px, 1200px, and 1800px if you plan on giving the giant-monitor people something special.
+
+The 100% correct way to do CSS breakpoints 
+
+[FreeCodeCamp](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
+
+## [Day 17](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/272982-day-17-the-viewport-meta-tag)
+
+### The viewport meta tag
+
