@@ -50,6 +50,7 @@ header {
 .row {
   display: flex;
   justify-content: space-between;
+  padding:  2em
 }
 
 .col {
@@ -70,7 +71,7 @@ header {
     color: #f3eed9;
 }
 .impar {
-    background: black;
+    background: black;;
 }
 
 .par {

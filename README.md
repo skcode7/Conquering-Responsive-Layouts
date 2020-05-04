@@ -76,6 +76,12 @@ An interesting look at the two properties, and how they might not always act the
 As it says, the second one is the easier one to understand, just like we looked at, so I plan on sticking with that one 😊
 [Link](https://css-tricks.com/tale-width-max-width/)
 
+> This might be a useful way to think about it: **if the element would render wider than what `max-width` says it can be, `max-width` wins.**
+>
+> [^]: 
+>
+> 
+
 ## [Day 7](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/259297-day-7-solution-to-challenge-3/747090-my-solution-to-challenge-3)
 ### My solution to challenge #3
 
@@ -171,7 +177,21 @@ The 100% correct way to do CSS breakpoints
 
 [FreeCodeCamp](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
 
+[Top 14 Desktop, Mobile & Tablet Screen Resolutions](https://gs.statcounter.com/#desktop+mobile+tablet-resolution-ww-monthly-201608-201610-bar)
+
 ## [Day 17](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/272982-day-17-the-viewport-meta-tag)
 
 ### The viewport meta tag
+
+## [Day 18](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/274380-day-18-challenge-solution-mobile-first)
+
+### Challenge solution & Mobile-first
+
+[CSS custom properties](https://youtu.be/PHO6TBq_auI)
+
+[CSS Units: vh, vw, vmin, vmax](https://www.youtube.com/watch?v=IWFqGsXxJ1E)
+
+
+
+[^1]: **Margin** is on the outside of block elements while **padding** is on the inside.   **Use** **margin** **to** separate the block from things outside it  **Use** **padding** **to** move the contents away from the edges of the block.
 
