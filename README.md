@@ -195,6 +195,10 @@ The 100% correct way to do CSS breakpoints
 
 ### Mobile navigation challenge
 
+## [Day 20](https://courses.kevinpowell.co/courses/conquering-responsive-layouts/277099-day-20-mobile-navigation-challenge-solution)
+
+### Mobile navigation challenge solution
+
 
 
 [^1]: **Margin** is on the outside of block elements while **padding** is on the inside.   **Use** **margin** **to** separate the block from things outside it  **Use** **padding** **to** move the contents away from the edges of the block.
