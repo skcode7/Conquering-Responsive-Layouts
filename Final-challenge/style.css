@@ -18,3 +18,28 @@ body {
 img {
     max-width: 100%;
 }
+
+h1 {
+    font-size: 5rem;
+    margin-top: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background: #2E323F;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.nav {
+    color: #fff;
+}
+
+.nav__list {
+    list-style: none;
+}
